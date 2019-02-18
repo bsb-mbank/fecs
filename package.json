@@ -1,6 +1,6 @@
 {
-  "name": "fecs",
-  "version": "1.7.0-beta.1",
+  "name": "@bsmb/fecs",
+  "version": "0.0.1",
   "description": "Front End Code Style Suite",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ecomfe/fecs"
+    "url": "https://github.com/bsb-mbank/fecs"
   },
   "keywords": [
     "fecs",
@@ -31,16 +31,16 @@
     "cssbeautify",
     "htmlbeautify"
   ],
-  "author": "chris <wfsr@foxmail.com>",
+  "author": "HermannLizard <coorazer@gmail.com>",
   "license": "MIT",
   "preferGlobal": true,
   "engines": {
     "node": ">=5"
   },
   "bugs": {
-    "url": "https://github.com/ecomfe/fecs/issues"
+    "url": "https://github.com/bsb-mbank/fecs/issues"
   },
-  "homepage": "https://github.com/ecomfe/fecs",
+  "homepage": "https://github.com/bsb-mbank/fecs",
   "dependencies": {
     "babel-eslint": "^10.0.1",
     "chalk": "^2.1.0",
